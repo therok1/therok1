@@ -39,7 +39,7 @@ If you wish to contact me, feel free to do so via:
 </div>
   
 <p align="center">
-Here are some programming languages and tools I am still using/have used in the past:<br/>
+Here are some of the programming languages and tools I am still using/have used in the past:<br/>
 </p>
   
 <div align="center">
