@@ -1,3 +1,4 @@
+<img src="https://github.com/therok1/therok1/blob/main/banner.png">
 <div align="center">
 <h3>💫 About me</h3>
 </div>
