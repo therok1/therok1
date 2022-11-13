@@ -45,7 +45,7 @@ Here are some programming languages and tools I am still using/have used in the 
 <div align="center">
 <img src="https://img.shields.io/badge/-Unreal%20Engine-000000?style=for-the-badge&logo=unrealengine&logoColor=white&labelColor=242424">
 <img src="https://img.shields.io/badge/-Arduino-000000?style=for-the-badge&logo=arduino&logoColor=white&labelColor=009aa8">
-<img src="https://img.shields.io/badge/Blender-000000?style=for-the-badge&logo=blender&logoColor=white&labelColor=ffbd5e">
+<img src="https://img.shields.io/badge/Blender-000000?style=for-the-badge&logo=blender&logoColor=black&labelColor=ffbd5e">
 <img src="https://img.shields.io/badge/Visual%20Studio-000000?style=for-the-badge&logo=visualstudio&logoColor=white&labelColor=5d2b90">
 <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=00599c">
 <img src="https://img.shields.io/badge/Javascript-000000?style=for-the-badge&logo=javascript&logoColor=black&labelColor=ffdd61">
