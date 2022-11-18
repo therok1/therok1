@@ -1,5 +1,5 @@
 <img src="https://github.com/therok1/therok1/blob/main/banner.png">
-<h1>💫 About me</h2>
+<h2>💫 About me</h2>
   
 Hi! I'm Rok Oblak, a 19-year-old computer science student based in Slovenia, looking forward to getting into game development in the future. I'm currently working on several different projects in C++, using SDL2 and/or OpenGL, as a part of enhancing my programming skills.
 
@@ -16,10 +16,11 @@ Hi! I'm Rok Oblak, a 19-year-old computer science student based in Slovenia, loo
 
 If you wish to contact me, feel free to do so via:
 
+<div align="left">
 <a href="https://discord.com/"><img src="https://img.shields.io/badge/-rok%234445-000000?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2"></a>
 <a href="https://twitter.com/therealrok1"><img src="https://img.shields.io/badge/-%40THEREALROK1-000000?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1D9BF0"></a>
 <a href="https://www.linkedin.com/in/rok-oblak-961974252/"><img src="https://img.shields.io/badge/-Rok%20Oblak-000000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5"></a>
-
+</div>
   
 <h2>💻 Languages and Tools</h2>
   
