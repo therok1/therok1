@@ -1,7 +1,7 @@
 <img src="https://github.com/therok1/therok1/blob/main/banner.png">
 <h2>💫 About me</h2>
   
-Hi! I'm Rok Oblak, a 19-year-old computer science student based in Slovenia, looking forward to getting into game development in the future. I'm currently working on several different projects in C++, using SDL2, OpenGL and DirectX 12 graphics libraries, as a part of improving my understanding of 3D game development more in depth and enhancing my programming competencies.
+Hi! I'm Rok Oblak, a 19-year-old computer science student based in Slovenia, looking forward to getting into game development. I'm currently working on several different projects in C++, using SDL2, OpenGL, and DirectX 12 graphics libraries, as a part of improving my understanding of 3D game development more in-depth and programming competencies.
 
 <h4>Some fun facts about me:</h4>
 
